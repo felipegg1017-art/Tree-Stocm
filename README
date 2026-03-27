@@ -13,11 +13,5 @@ Este proyecto es una aplicación de consola en Java que gestiona un inventario u
 2. Compilar: `javac *.java`
 3. Ejecutar: `java Main`
 
-## Evidencias
-*(Sustituye los nombres por tus capturas reales)*
-- **Menú y Registro:** ![Menu](menu.png)
-- **Inventario Ordenado:** ![Inorden](inventario.png)
-- **Búsqueda:** ![Busqueda](buscar.png)
-
 ## Sustentación
 - **Video:** [Pega aquí el enlace de YouTube o Drive]
