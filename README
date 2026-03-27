@@ -1,1 +1,23 @@
-Proyecto Tree-Stock Final.
+# 🌳 Tree-Stock: Sistema de Inventario con Árbol Binario
+
+## Descripción
+Este proyecto es una aplicación de consola en Java que gestiona un inventario utilizando la estructura de datos de **Árbol Binario de Búsqueda (BST)**. Permite registrar productos con un ID único, visualizarlos de forma ordenada y realizar búsquedas eficientes.
+
+## Requisitos de la Actividad
+- **Clase Producto:** Representa el nodo del árbol (ID, Nombre, punteros).
+- **Clase ArbolInventario:** Contiene la lógica recursiva de inserción, búsqueda y recorrido inorden.
+- **Clase Main:** Interfaz de usuario con menú interactivo.
+
+## Cómo ejecutarlo
+1. Abrir la terminal en la carpeta del proyecto.
+2. Compilar: `javac *.java`
+3. Ejecutar: `java Main`
+
+## Evidencias
+*(Sustituye los nombres por tus capturas reales)*
+- **Menú y Registro:** ![Menu](menu.png)
+- **Inventario Ordenado:** ![Inorden](inventario.png)
+- **Búsqueda:** ![Busqueda](buscar.png)
+
+## Sustentación
+- **Video:** [Pega aquí el enlace de YouTube o Drive]
